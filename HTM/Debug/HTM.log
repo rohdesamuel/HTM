@@ -1,0 +1,17 @@
+﻿Build started 6/27/2012 8:34:14 PM.
+     1>Project "C:\Documents and Settings\Sam\My Documents\Visual Studio 2010\Projects\HTM\HTM\HTM.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HTM.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         HTM.vcxproj -> C:\Documents and Settings\Sam\My Documents\Visual Studio 2010\Projects\HTM\Debug\HTM.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\HTM.unsuccessfulbuild".
+         Touching "Debug\HTM.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Sam\My Documents\Visual Studio 2010\Projects\HTM\HTM\HTM.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
